@@ -35,4 +35,4 @@ models:
         base:
           materialized: ephemeral
       vars:
-        "base.gitlab_projectinfo": "gitlab_projectinfo"
+        "base.gitlab_projectinfo": "gitlab_project_counts"
