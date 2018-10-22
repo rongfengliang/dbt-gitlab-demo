@@ -1,3 +1,3 @@
 {% macro gitlab_projectinfo_info() -%}
-projects
+gitlab_projectinfo
 {%- endmacro %}
