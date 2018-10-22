@@ -34,3 +34,5 @@ models:
       gitlab:
         base:
           materialized: ephemeral
+      vars:
+        "base.gitlab_projectinfo": "gitlab_projectinfo"
